@@ -1,0 +1,7 @@
+{
+  "name": "compile-io",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
